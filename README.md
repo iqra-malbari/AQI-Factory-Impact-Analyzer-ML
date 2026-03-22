@@ -1,10 +1,5 @@
 🌍 AQI Prediction & Factory Impact Analyzer
 
-"Python" (https://img.shields.io/badge/Python-3.10-blue?logo=python)
-"ML" (https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
-"Streamlit" (https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
-
----
 
 📌 Project Overview
 
@@ -108,6 +103,8 @@ The ".pkl" model file required to run the Streamlit app is generated in:
 - Scikit-learn
 - Streamlit
 - Joblib
+- Seaborn
+- Matplotlib
 
 ---
 
@@ -132,8 +129,8 @@ streamlit run code.py
 
 ## 📸 Application Preview
 
-![Home](home.png)
-![Prediction](result.png)
+![Home](home.PNG)
+![Prediction](result.PNG)
 
 
 ---
